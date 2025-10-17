@@ -103,4 +103,8 @@ Copy code
     © 2025 {{ bot_name }} | Created by the Life Bot Team
   </footer>
 </body>
+git add requirements.txt
+git commit -m "Add requirements.txt for Render"
+git push origin main
+
 </html>
